@@ -15,3 +15,9 @@ duong code at 7/6 13:38
 
 //t la duong dep trai
 >>>>>>> fac711039336b24c63b512fdc6c7c9718912a152
+
+//chuc nang A
+
+//chuc nang B
+
+//chuc nang C
