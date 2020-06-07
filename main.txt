@@ -5,9 +5,8 @@ Ubuntu add
 duong code at 7/6 13:38
 
 
-<<<<<<< HEAD
-///duong code at mac at 14:00
-=======
 
 //code at ubuntu on 14:05
->>>>>>> cf3c780eb140249d9f40cb7ac5f8fa34df632324
+
+
+//duong ko dep zai,duong xau trai
