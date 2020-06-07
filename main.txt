@@ -9,9 +9,8 @@ duong code at 7/6 13:38
 //code at ubuntu on 14:05
 
 
-<<<<<<< HEAD
 //duong ko dep zai,duong xau trai
-=======
 
 //t la duong dep trai
->>>>>>> fac711039336b24c63b512fdc6c7c9718912a152
+
+//them vao tu nhanh dev
