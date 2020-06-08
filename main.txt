@@ -1,4 +1,9 @@
 Duong Add sdsadsdasdasda.
+<<<<<<< HEAD
 
 
 duongggggggggggggggggggggg
+=======
+looooooooooooool 
+Naoki Hello
+>>>>>>> aecaccc7a1b6976c61a784786a990856b19551b7
